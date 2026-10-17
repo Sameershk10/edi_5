@@ -1,0 +1,11 @@
+name,phone,email,preferred_language,preferred_call_time,campaign,status,notes
+Rahul Sharma,+919876543210,rahul.sharma@example.com,Hindi,17:00,Appointment Reminder,pending,Appointment booked for consultation tomorrow
+Sneha Kulkarni,+919822334455,sneha.kulkarni@example.com,Marathi,10:30,Follow-up Campaign,pending,Requested Marathi follow-up for health checkup
+Amit Patel,+919988776655,amit.patel@example.com,Hinglish,15:00,Lead Qualification,pending,Interested in cloud telephony service
+Priya Deshmukh,+919765432198,priya.d@example.com,Marathi,18:00,Appointment Reminder,pending,Dentist consultation review
+Vikram Singh,+919811223344,vikram.singh@example.com,Hindi,14:00,Customer Survey,pending,Annual service satisfaction feedback
+John Anderson,+919877112233,john.a@example.com,English,11:00,Event Registration,pending,Registered for AI Pune Tech Summit 2026
+Ananya Joshi,+919833445566,ananya.j@example.com,Marathi,16:30,Lead Qualification,pending,Inquired about enterprise voice tier
+Rajesh Verma,+919844556677,rajesh.v@example.com,Hindi,12:00,Appointment Reminder,pending,Vaccination drive slot verification
+David Wilson,+919855667788,david.w@example.com,English,19:00,Customer Survey,pending,Post-delivery satisfaction survey
+Pooja Nair,+919866778899,pooja.n@example.com,Hinglish,13:30,Follow-up Campaign,pending,Discussion on pending invoice and renewal

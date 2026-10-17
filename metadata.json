@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice Calling Agent",
+  "description": "Autonomous voice calling agent for intelligent customer interaction in English, Hindi, Marathi, and Hinglish with dialogue manager, RAG, Twilio, and analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
